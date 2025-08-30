@@ -2,7 +2,7 @@
 <div align="center"> 
   <img src="https://raw.githubusercontent.com/NicolasChirazawa/readme/refs/heads/main/images/haibane_renmei.gif" width="600">
   <h3>Desenvolvedor Backend</h3>
-    <a href="mailto:nicolaschfernandes@gmail.com" target="_blank">
+    <a href="mailto:nicolaschirazawafernandes@gmail.com" target="_blank">
       <img src="https://img.shields.io/static/v1?label=%20&labelColor=ff786d&message=Gmail&color=grey&style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
     <a href="https://www.linkedin.com/in/nicolas-chirazawa/" target="_blank">
