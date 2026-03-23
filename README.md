@@ -29,11 +29,11 @@ Após um tempo natural desenvolvendo lógica, comecei a fazer alguns projetos, e
 
 <h2>Repositórios</h2>
 
-- 📗 <a href="https://github.com/NicolasChirazawa/loja-compras"><i>loja-compras</i></a> <br>
-  Backend de um E-commerce desenvolvido em Node.JS.
+- 📗 <a href="https://github.com/NicolasChirazawa/automacao-cotas-investimento"><i>automacao-cotas-investimento</i></a> <br>
+  Projeto de automação de coleta de dados de investimento para análises (planilhas e gráficos).
 
-- 📘 <a href="https://github.com/NicolasChirazawa/sort-study"><i>sort-study</i></a> <br>
-  Um estudo da performance média de diferentes algoritmos de ordenação.
+- 📘 <a href="https://github.com/NicolasChirazawa/loja-compras"><i>loja-compras</i></a> <br>
+  Backend de um E-commerce desenvolvido em Node.JS.
 
 - 📙 <a href="https://github.com/NicolasChirazawa/MyAnimeList-Scraper"><i>MyAnimeList-Scraper</i></a> <br>
   Uma ferramenta para realizar o 'Web Scraping' do site 'MyAnimeList', responsável a obter diferentes dados através de uma diversidade de filtros disponíveis.
