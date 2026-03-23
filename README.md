@@ -23,7 +23,7 @@ Após um tempo natural desenvolvendo lógica, comecei a fazer alguns projetos, e
   
 - Banco de Dados: <b>MySQL</b>, <b>PostgreSQL</b>, <b>SQL Server</b>, <b>Redis</b>;
   
-- Ferramentas: <b>Docker</b>, <b>BullMQ</b>, <b>Git</b>;
+- Ferramentas: <b>Docker</b>, <b>BullMQ</b>, <b>Jupyter Notebook</b>, <b>Git</b>;
 
 - Idioma: <b>Português</b>, <b>Inglês</b>;
 
